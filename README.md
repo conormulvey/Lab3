@@ -3,3 +3,5 @@ Hello
 I have no idea what im doing
 
 Change added in the dazzling_feature branch
+
+Change made as collaborator
